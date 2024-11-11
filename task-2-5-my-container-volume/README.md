@@ -35,7 +35,8 @@ Jalankan ulang postgres sebagai container dengan nama container my-postgres-v2-s
 
 Tabel dan data masih ada
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9a8a9f05-8a3f-4d8b-986d-57005228ff74)
+
 
 
 
